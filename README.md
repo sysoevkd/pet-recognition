@@ -15,7 +15,7 @@
 **Локальный запуск сервиса**
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/kolyal/pet-recognition.git
+git clone https://github.com/sysoevkd/pet-recognition.git
 cd pet-recognition
 ```
 2. Установите зависимости:
